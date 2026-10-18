@@ -10,11 +10,11 @@ title: SVR Player
 
 | System | Download |
 | --- | --- |
-| Windows 10 / 11 (64-bit) | [SVRLink-windows-x64.zip](https://github.com/OWNER/REPO/releases/latest/download/SVRLink-windows-x64.zip) |
+| Windows 10 / 11 (64-bit) | [SVRLink-windows-x64.zip](https://github.com/elfenLied666/svr-player/releases/latest/download/SVRLink-windows-x64.zip) |
 | Linux (64-bit) | Coming soon |
 | macOS | Coming soon |
 
-All versions and release notes: [Releases](https://github.com/OWNER/REPO/releases). The PC and the headset must be on the same local network.
+All versions and release notes: [Releases](https://github.com/elfenLied666/svr-player/releases). The PC and the headset must be on the same local network.
 
 ## How to use SVR Link (Windows)
 
