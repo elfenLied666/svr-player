@@ -4,15 +4,19 @@ title: SVR Player
 
 **SVR Player** is a VR video player for Meta Quest. It plays flat, 3D (SBS / OU), 180° and 360° videos, with subtitles and multiple audio tracks.
 
-**SVR Link** is a free companion app for your PC (Windows now, Linux and macOS later). It lets you watch videos stored on your PC in SVR Player over your home Wi-Fi, without copying files to the headset.
+## Download SVR Player
+
+[Download on Meta Horizon Store](https://www.meta.com/experiences/1407967885740014/)
+
+**SVR Link** is a free companion app for your PC (Windows, Linux, and macOS). It lets you watch videos stored on your PC in SVR Player over your home Wi-Fi, without copying files to the headset.
 
 ## Download SVR Link
 
 | System | Download |
 | --- | --- |
 | Windows 10 / 11 (64-bit) | [SVRLink-windows-x64.zip](https://github.com/elfenLied666/svr-player/releases/latest/download/SVRLink-windows-x64.zip) |
-| Linux (64-bit) | [SVRLink-linux-x64.zip](https://github.com/elfenLied666/svr-player/releases/download/v0.1.0/SVRLink-linux-x64.zip)|
-| macOS | Coming soon |
+| Linux (64-bit) | [SVRLink-linux-x64.zip](https://github.com/elfenLied666/svr-player/releases/download/v0.1.0/SVRLink-linux-x64.zip) |
+| macOS | [SVRLink-macos.zip](https://github.com/elfenLied666/svr-player/releases/download/v0.1.0/SVRLink-macos.zip) |
 
 All versions and release notes: [Releases](https://github.com/elfenLied666/svr-player/releases). The PC and the headset must be on the same local network.
 
