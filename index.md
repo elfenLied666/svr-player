@@ -49,9 +49,6 @@ If the headset cannot find your PC, check that both are on the same Wi-Fi networ
 ## Support
 
 If you enjoy SVR Player and SVR Link, you can support development on [Ko-fi](https://ko-fi.com/thaisqwen).
-## Support
-
-If you enjoy SVR Player and SVR Link, you can support development on [Ko-fi](https://ko-fi.com/thaisqwen).
 
 ## Privacy
 
