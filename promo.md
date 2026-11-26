@@ -1,12 +1,12 @@
 ---
-title: Free Premium Promo Codes — SVR Player
+title: Premium Promo Codes — SVR Player
 ---
 
 [← Back to SVR Player](index.html)
 
-# Free Premium Promo Codes (Creators & Community)
+# 99% Off Premium Promo Codes (Creators & Community)
 
-Want **SVR Player Premium** for free? We are giving away a limited number of **single-use promo codes** to creators and community members!
+Want **SVR Player Premium** for **99% off** (the maximum promo discount Meta allows — just a few cents)? We are giving away a limited number of **single-use promo codes** to creators and community members!
 
 ## How to get a code
 

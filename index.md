@@ -8,9 +8,9 @@ title: SVR Player
 
 [Download on Meta Horizon Store](https://www.meta.com/experiences/1407967885740014/)
 
-## Free Premium Promo Codes
+## Premium Promo Codes (99% Off)
 
-Creators and community members can get a **free single-use Premium promo code** by sharing a video, review, or post about SVR Player: [How to get & redeem a promo code](promo.html).
+Creators and community members can get a **single-use 99% off Premium promo code** by sharing a video, review, or post about SVR Player: [How to get & redeem a promo code](promo.html).
 
 **SVR Link** is a free companion app for your PC (Windows, Linux, and macOS). It lets you watch videos stored on your PC in SVR Player over your home Wi-Fi, without copying files to the headset.
 
